@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="234d1700-b4de-4304-9de6-6d3f3b377a10" name="Changes" comment="">
+    <list default="true" id="234d1700-b4de-4304-9de6-6d3f3b377a10" name="Changes" comment="değişiklikler yapıldı">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Team-WorkProject03.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CamelCase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/GetPopulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubtractionSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sq.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ThreeEvenOdd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/UpdateRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskTeamworkProje-3/SubtractionSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaskTeamworkProje-3/SubtractionSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubtractionSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubtractionSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TaskTeamworkProje-3" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UpdateRange">
+  <component name="RunManager" selected="Application.Sq">
     <configuration name="CamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CamelCase" />
       <module name="Team-WorkProject03" />
@@ -56,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPopulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetPopulation" />
+    <configuration name="Sq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sq" />
       <module name="Team-WorkProject03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sq" />
         <item itemvalue="Application.UpdateRange" />
-        <item itemvalue="Application.CamelCase" />
-        <item itemvalue="Application.SubtractionSquare" />
         <item itemvalue="Application.ThreeEvenOdd" />
-        <item itemvalue="Application.GetPopulation" />
+        <item itemvalue="Application.SubtractionSquare" />
+        <item itemvalue="Application.CamelCase" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +109,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679650316851</updated>
     </task>
+    <task id="LOCAL-00001" summary="değişiklikler yapıldı">
+      <created>1679926530123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679926530123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="değişiklikler yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="değişiklikler yapıldı" />
   </component>
 </project>

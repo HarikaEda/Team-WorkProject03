@@ -43,7 +43,7 @@ public class SubtractionSquare {
 
         int kareToplam = 0;
         getSumOfSquares(kareToplam);
-       // System.out.println(getSumOfSquares(kareToplam));
+        System.out.println(getSumOfSquares(kareToplam));
     }
     private static int getSumOfSquares(int kareToplam) {
         Scanner input = new Scanner(System.in);
