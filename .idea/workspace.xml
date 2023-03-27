@@ -13,10 +13,6 @@
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ThreeEvenOdd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/UpdateRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskTeamworkProje-3/SubtractionSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/TaskTeamworkProje-3/SubtractionSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubtractionSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubtractionSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679926530123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="değişiklikler yapıldı">
+      <created>1679947441761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679947441761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
